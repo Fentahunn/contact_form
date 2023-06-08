@@ -51,15 +51,11 @@
   </ul>
 </details>
 
-
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-
 - User login form
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
